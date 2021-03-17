@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: orange;
+  border-width: 5px;
+  width: 6%;
+}
+
+h1, h3, a{
+  color: #66bfbf;
+}
+p,ul{
+  color: white;
+}
